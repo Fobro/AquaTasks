@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - /Users/mark/Desktop/github/AquaTasks/AquaTasks_NET_Source/bin/Debug/net8.0-ios/iossimulator-arm64/AquaTasks_NET_Source.app/libSystem.Net.Security.Native.dylib

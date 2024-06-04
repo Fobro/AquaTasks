@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/mark/Desktop/github/AquaTasks/AquaTasks_NET_Source/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/mark/Desktop/github/AquaTasks/AquaTasks_NET_Source/bin/Debug/net8.0-maccatalyst/maccatalyst-arm64/AquaTasks_NET_Source.app
